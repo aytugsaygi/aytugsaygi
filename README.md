@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aytuğ SAYGI</h1>
-- 🔭 I’m currently a Mechatronics Engineering student at Çankaya University, and I'm also pursuing a Double Major in Software Engineering.
+
+- 🔭 I’m currently a **Mechatronics Engineering student at Çankaya University, and I'm also pursuing a Double Major in Software Engineering.**
 
 - 🌱 I’m currently learning **Java.**
 
