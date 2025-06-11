@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 💬 Ask me about **Coding and Technical Drawning.** I love discussing these topics!
+- 💬 Ask me about **Coding and Technical Drawning.** I love discussing about these topics!
 
 - 📫 Reach out to me at: **saygiaytug@gmail.com**
 
