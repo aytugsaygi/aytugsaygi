@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me at: **saygiaytug@gmail.com**
 
-- 📄 Know about my experiences [C, C++, Autodesk Inventor, Engineering Drawing Standards, Mechanical Drafting](C, C++, Autodesk Inventor, Engineering Drawing Standards, Mechanical Drafting)
+- 📄 Know about my experiences **C, C++, Autodesk Inventor, Engineering Drawing Standards, Mechanical Drafting..**
 
 - ⚡ Fun fact **Over 90% of the world’s currency exists only digitally — just like most of our code!**
 
