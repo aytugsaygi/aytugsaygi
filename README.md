@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 💬 Ask me about **Coding and Technical Drawning.** I love discussing about these topics!
+- 💬 Ask me about **Coding and Science.** I love discussing about these topics!
 
 - 📫 Reach out to me at: **saygiaytug@gmail.com**
 
-- 📄 Know about my experiences **C, C++, Autodesk Inventor, Engineering Drawing Standards, Mechanical Drafting..**
+- 📄 Know about my experiences **C, C++, Java, Autodesk Inventor, Engineering Drawing Standards..**
 
 - ⚡ Fun fact **Over 90% of the world’s currency exists only digitally — just like most of our code!**
 
