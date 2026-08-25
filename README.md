@@ -37,7 +37,7 @@ Location    : Ankara, Türkiye
 ## 📫 Contact
 
 <div align="center">
-  <a href="mailto:saygiaytug@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="mailto:saygiaytug@gmail.com?subject=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/saygiaytug%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: saygiaytug at gmail dot com" /></a>
   <a href="https://www.linkedin.com/in/aytu%C4%9F-sayg%C4%B1-as111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="https://github.com/aytugsaygi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </div>
@@ -219,25 +219,37 @@ I ran the algorithm under **two traffic scenarios of 100 vehicles each**, compar
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aytugsaygi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytugsaygi&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=6&cache_seconds=86400" alt="Most used languages" height="165" />
+  <img src="https://img.shields.io/github/followers/aytugsaygi?style=for-the-badge&logo=github&logoColor=white&color=0F172A&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/created-at/aytugsaygi/aytugsaygi?style=for-the-badge&logo=github&logoColor=white&color=0F172A&label=On%20GitHub%20since" alt="On GitHub since" />
 </div>
 
+| Repository | What it is | Language | Last commit |
+| :--- | :--- | :--- | :--- |
+| **[SENG272&#8209;Java&#8209;Programming&#8209;Repository](https://github.com/aytugsaygi/SENG272-Java-Programming-Repository)** | Java programming coursework for **SENG272**, from the Software Engineering double major. | <img src="https://img.shields.io/github/languages/top/aytugsaygi/SENG272-Java-Programming-Repository?style=for-the-badge&color=38BDF8&label=" alt="Top language" height="20" /> | <img src="https://img.shields.io/github/last-commit/aytugsaygi/SENG272-Java-Programming-Repository?style=for-the-badge&color=0F172A&label=" alt="Last commit" height="20" /> |
+| **[SQL&#8209;Queries](https://github.com/aytugsaygi/SQL-Queries)** | My working repository for **SQL** practice and query exercises. | <img src="https://img.shields.io/github/languages/top/aytugsaygi/SQL-Queries?style=for-the-badge&color=38BDF8&label=" alt="Top language" height="20" /> | <img src="https://img.shields.io/github/last-commit/aytugsaygi/SQL-Queries?style=for-the-badge&color=0F172A&label=" alt="Last commit" height="20" /> |
+
+> 📌 More projects are on the way — the engineering work described above lives in coursework and company repositories that are not public.
+
 <!--
-  OPTIONAL 1 - Contribution streak card.
-  streak-stats.demolab.com is a free shared instance and is often slow or down,
-  which is why it is disabled by default. Enable it if you are happy with the risk:
+  OPTIONAL - GitHub stats cards (github-readme-stats).
+
+  Disabled on purpose. The public demo instance shares ONE GitHub API quota
+  (5000 GraphQL points/hour) across every user on the internet, so it regularly
+  fails and renders as a broken image. The maintainers' own advice is to deploy
+  your own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+
+  Once you have your own Vercel URL, replace 'github-readme-stats.vercel.app'
+  below with it and uncomment this block:
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=aytugsaygi&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution streak" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aytugsaygi&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytugsaygi&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=6" alt="Most used languages" height="165" />
   </div>
 
-  OPTIONAL 2 - Snake animation.
-  Requires .github/workflows/snake.yml in this repository first (see snake.yml).
-  Without the workflow the image will be broken, so keep it commented until then:
+  OPTIONAL - Snake animation. Needs .github/workflows/snake.yml first (see snake.yml).
 
   <div align="center">
     <img src="https://raw.githubusercontent.com/aytugsaygi/aytugsaygi/output/snake.svg" alt="Contribution graph snake animation" width="100%" />
