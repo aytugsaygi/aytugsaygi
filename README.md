@@ -1,12 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Aytu%C4%9F%20Sayg%C4%B1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Mechatronics%20and%20Software%20Engineering%20Student&descAlignY=53&descSize=17" alt="Aytug Saygi - Mechatronics and Software Engineering Student" width="100%" />
-</div>
-
-<div align="center">
+  <br />
   <a href="https://github.com/aytugsaygi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=4th%20Year%20Mechatronics%20Engineering%20Student;Software%20Engineering%20Double%20Major;Embedded%20Systems%20and%20Control%20Software;I%20build%20with%20C%2C%20C%2B%2B%20and%20Java" alt="4th year Mechatronics Engineering student, Software Engineering double major" /></a>
-</div>
-
-<div align="center">
+  <br />
   <img src="https://komarev.com/ghpvc/?username=aytugsaygi&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/aytugsaygi?style=for-the-badge&logo=github&logoColor=white&color=0F172A&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Ankara-T%C3%BCrkiye-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Ankara, Turkiye" />
