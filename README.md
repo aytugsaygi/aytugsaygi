@@ -26,9 +26,8 @@ Location    : Ankara, Türkiye
 - 🎓 I am a **4th-year Mechatronics Engineering** student at **Çankaya University**, and I am also enrolled in the **Software Engineering double major** program.
 - 🔩 I write **embedded control software in C** and take it all the way to the hardware — flashing the control board, running functional tests and debugging on the device.
 - 🌾 I am currently an **Engineering Intern at AgroBrain**, contributing to the embedded and software infrastructure behind autonomous and semi-autonomous farming robots.
-- 🧪 I work on sensor integration, signal processing and system modelling with **LabVIEW** and **MATLAB/Simulink**.
 - 🧑‍🏫 I teach one-to-one **Java, C and C++** lessons on **Superprof** — breaking complex topics into simple explanations is the part I enjoy most.
-- 🎯 My focus areas: **guidance and unmanned systems**, **avionics** and **electronic warfare** software.
+- 🎯 My focus areas: **Embedded Systems** and **Control Software**.
 
 ## 📫 Contact
 
