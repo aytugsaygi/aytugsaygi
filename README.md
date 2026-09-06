@@ -166,7 +166,7 @@ I ran the algorithm under **two traffic scenarios of 100 vehicles each**, compar
 <summary><b>🔎 Click to expand experience details</b></summary>
 
 **AgroBrain — Engineering Intern**
-- Working in the software development and embedded software teams of a company building satellite imaging, robotic farming and decision-support platforms.
+- Working in the software development and embedded software teams of a company building robotic farming and decision-support platforms.
 - Contributing to the embedded systems and software infrastructure used in autonomous and semi-autonomous farming robot projects such as **AgroBot** and **AgroEdu**.
 
 **Optima Engineering Inc. — Engineering Intern**
