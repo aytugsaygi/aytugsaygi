@@ -19,7 +19,6 @@ Education   : Çankaya University — BSc Mechatronics Engineering (4th Year)
               Çankaya University — BSc Software Engineering (Double Major)
 Focus       : Embedded Systems · Control Software · Object-Oriented Programming
 Currently   : Engineering Intern at AgroBrain (Embedded & Software Development)
-Interests   : Guidance and Unmanned Systems · Avionics · Electronic Warfare
 Location    : Ankara, Türkiye
 ```
 
